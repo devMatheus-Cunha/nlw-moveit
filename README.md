@@ -90,5 +90,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 Feito com :purple_heart: by [Matheus Gomes](https://github.com/devMatheus-Gomes)
 
-[![Linkedin Badge](https://img.shields.io/badge/-deMatheus%20Gines-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devMatheus-Gomes/)](https://www.linkedin.com/in/devMatheus-Gomes/) 
-[![Gmail Badge](https://img.shields.io/badge/-devMatheus-Gomes@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devMatheus-Gomes@gmail.com)](mailto:devmatheusgr@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Gomes-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devMatheus-Gomes/)](https://www.linkedin.com/in/devMatheus-Gomes/) 
