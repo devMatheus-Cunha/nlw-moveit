@@ -10,14 +10,14 @@ const Profile = () => {
     <Container>
       <Image
         className="avatar"
-        src="https://github.com/martins-rafael.png"
-        alt="Rafael Martins"
+        src="https://github.com/devMatheus-Gomes.png"
+        alt="Matheus Gomes"
         width={60}
         height={80}
       />
 
       <div>
-        <strong>Rafael Martins</strong>
+        <strong>Matheus Gomes</strong>
         <p>
           <Image src="/icons/level.svg" alt="Level" width={14} height={16} />
           Level {level}
