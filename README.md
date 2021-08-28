@@ -1,7 +1,7 @@
 # Move.it
 
 <p>
-  <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-6E40C9?style=flat-square">
+  <img src="https://img.shields.io/badge/made%20by-MATHEUS%20GOMES-6E40C9?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devMatheus-Gomes/moveIt?color=6E40C9&style=flat-square">
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/devMatheus-Gomes/moveIt?color=6E40C9&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
